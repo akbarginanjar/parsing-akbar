@@ -1,0 +1,41 @@
+{
+    "name": "Akbar Ginanjar",
+    "age": 18,
+    "gender": "Laki-laki",
+    "hobi": [
+        "Coding",
+        "Main Gitar",
+        "Main Bola"
+    ],
+    "github": {
+        "username": "akbarginanjar",
+        "repository": 100
+    },
+    "articles": [
+        {
+            "id": 1,
+            "title": "Flutter: Introduction",
+            "subtitle": "Beautiful native apps with Dart lenguange"
+        },
+        {
+            "id": 2,
+            "title": "Flutter: LinearLayout",
+            "subtitle": "How to design LinearLayout in Flutter"
+        },
+        {
+            "id": 3,
+            "title": "Flutter: RelativeLayout",
+            "subtitle": "How to design RelativeLayout in Flutter"
+        }
+    ],
+    "contact": {
+        "1": {
+            "name": "Personal",
+            "phone": "62961823798"
+        },
+        "2": {
+            "name": "Work",
+            "phone": "022362876298"
+        }
+    }
+}
